@@ -28,11 +28,11 @@
 
     <div class="area1">
       <form action="####" method="post">
-      <button class="btn btn-secondary btn btn-primary btn-lg " type="button w-100 btn btn-lg">登録</button>
+      <button class="btn btn-secondary btn btn-primary btn-lg " type="button w-100 btn btn-lg"> 登録 </button>
       </form>
     </div>
   <br>
-
+    
     <table class="table table-bordered border-dark">
       <thead>
         <tr class="table table-primary">
