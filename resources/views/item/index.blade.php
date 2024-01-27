@@ -25,6 +25,12 @@
                         </div>
                     </div>
                 </div>
+                <div class="text-end">
+                <form action="{{ route('logout') }}" method="post">
+                @csrf
+                <input type="submit" value="ログアウト">
+                </form>
+            </div>
                 <div class="card-body table-responsive p-2 text-center">
                     <table class="table table-hover text-nowrap">
                         <thead>
